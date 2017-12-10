@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">colapsToolbar</string>
+    <string name="cant_load_places">Cant Load</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="add">Add</string>
+    <string name="tab_text_1">TAB#1</string>
+    <string name="tab_text_2">TAB#2</string>
+    <string name="example_name">First Name , Last Name</string>
+    <string name="location">Armenia,Yerevan</string>
+</resources>
